@@ -1,10 +1,10 @@
 using UnityEngine;
 using System;
-using Inventory.Item.Flags;
+using Inventory.Items.Flags;
 
-namespace Inventory.Item
+namespace Inventory.Items
 {
-    public abstract class ItemsObject : UnityEngine.ScriptableObject
+    public abstract class ItemsObject : ScriptableObject
     {
         public int Id;
         public string Name;

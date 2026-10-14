@@ -6,20 +6,24 @@ namespace Inventory
 {
     public static class SlotEventBinder//оповещения на слоты
     {
-        /*public static void Bind(GameObject obj)
+        public static void Unbind(GameObject obj)// отключает триггеры
         {
-            var trigger = 
-        }*/
+            var trigger = obj.GetComponent<EventTrigger>();
+            
+            if (trigger)//если тригер живой, делаем его мертвым
+                trigger.triggers.Clear();
+        }
+        
         public static void BindSlotEvent(GameObject obj, InventorySlot slot, InventoryView ui)
         {
-            AddEvent(obj, EventTriggerType.PointerEnter, delegate { ui.OnEnter(slot); });
+            AddEvent(obj, EventTriggerType.PointerEnter, delegate { ui.OnEnter(slot); });//delegate создает ивент
             AddEvent(obj, EventTriggerType.PointerExit,  delegate { ui.OnExit(slot); });
             AddEvent(obj, EventTriggerType.BeginDrag,    delegate { ui.OnDragStart(slot); });
             AddEvent(obj, EventTriggerType.EndDrag,      delegate { ui.OnDragEnd(slot); });
             AddEvent(obj, EventTriggerType.Drag, (eventData) => ui.OnDrag(slot, (PointerEventData)eventData));//-лямбда(=>) - метод, который прописывается вместе с телом внутри параметра
         }
 
-        /*public static void BindInventoryUI(GameObject obj, InventoryView ui)
+        public static void BindInventoryUIEvent(GameObject obj,InventoryView ui)
         {
             AddEvent(obj, EventTriggerType.PointerEnter, delegate { ui.OnEnterInterface(obj); });
             AddEvent(obj, EventTriggerType.PointerEnter, delegate { ui.OnExitInterface(obj); });
@@ -29,7 +33,7 @@ namespace Inventory
         {
             AddEvent(obj, EventTriggerType.PointerClick, (eventData) =>
             {
-                var pointer = eventData as PointerEventData;
+                //var pointer = eventData as PointerEventData;
                 
                 PointerEventData pointerData = (PointerEventData)eventData;
 
@@ -44,7 +48,7 @@ namespace Inventory
                         break;
                 }
             });
-        }*/
+        }
 
         private static void AddEvent(
             GameObject obj,

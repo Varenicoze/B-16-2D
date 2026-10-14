@@ -1,6 +1,6 @@
 using System;
 
-namespace Inventory.Item.Flags
+namespace Inventory.Items.Flags
 {
     [Flags]
     public enum ToolCapability

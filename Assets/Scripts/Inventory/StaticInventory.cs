@@ -6,25 +6,45 @@ namespace Inventory
 {
     public class StaticInventory : InventoryView
     {
-        private GameObject _staticSlot;
-        
+        private InventorySlotView[] _staticSlot;//проверяем неймспейсы, скобочки не забываем
         public event Action<InventorySlot> OnItemSelected;
         
+        private void Start()
+        {
+            CreateSlots();
+            SlotEventBinder.BindInventoryUIEvent(gameObject, this);
+        }
+
         public override void CreateSlots()
         {
             var inventorySlots = inventory.container.Items;
 
-            /*for (int i = 0; i < _staticSlot.Length; i++)
+            if (inventorySlots.Length != transform.childCount)
+            {
+                Debug.LogError(
+                    $"[{name} Число слотов в инвентаре ({inventorySlots.Length})" +
+                    $"не соовпадает с числом дочерних объектов в сцене ({transform.childCount}). Проверьте префаб/инспектор.",
+                    this);
+                return;
+            }
+
+            slots = inventorySlots;
+            _staticSlot = new InventorySlotView[inventorySlots.Length];
+            
+            for (int i = 0; i < _staticSlot.Length; i++) //была ошибка NullReference, ибо нету _staticSlot.Length
             {
                 var obj = transform.GetChild(i).gameObject;
-                SlotEventBinder.BindSlotEvent(_staticSlot[i], items[i], this);
-                SlotEventBinder.BindClickEvent(_staticSlot[i], items[i], this);
-                _staticSlot[i].GetComponent<InventorySlotView>().Bind(items[i], inventory.database);
-                inventorySlots[i].Bind(inventory.database);
-            }*/
+                _staticSlot[i] = obj.GetComponent<InventorySlotView>();
+                
+                InventorySlotBinder.Bind(obj,
+                    _staticSlot[i],
+                    inventorySlots[i],
+                    this,
+                    inventory.database);
+            }
         }
 
-        public /*override*/ void OnLeftClick(InventorySlot slot)
+        public override void OnLeftClick(InventorySlot slot)
         {
             if(slot.item == null)
                 return;

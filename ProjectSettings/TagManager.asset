@@ -3,17 +3,18 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Ground
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
-  - 
-  - 
-  - 
+  - ObstacleFront
+  - ObstacleBack
+  - Ground
   - 
   - 
   - 
@@ -40,6 +41,21 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Walls
+    uniqueID: 2783815569
+    locked: 0
+  - name: ObstacleBack
+    uniqueID: 2112489445
+    locked: 0
+  - name: Player
+    uniqueID: 268981947
+    locked: 0
+  - name: Effects
+    uniqueID: 3907741157
+    locked: 0
+  - name: ObstacleFront
+    uniqueID: 2698054415
     locked: 0
   m_RenderingLayers:
   - Default

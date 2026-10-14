@@ -1,0 +1,4199 @@
+fileFormatVersion: 2
+guid: 1f8d1415ef9feb54b93d6d7633a4c00c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4780739867051886787
+    second: MagoTiles_0
+  - first:
+      213: -8599977151236476029
+    second: MagoTiles_1
+  - first:
+      213: -5134215653390662732
+    second: MagoTiles_2
+  - first:
+      213: 1097657370181684387
+    second: MagoTiles_3
+  - first:
+      213: 4753528100421848449
+    second: MagoTiles_4
+  - first:
+      213: -5099674606334153347
+    second: MagoTiles_5
+  - first:
+      213: -6021692861907134885
+    second: MagoTiles_6
+  - first:
+      213: -7940267965352587282
+    second: MagoTiles_7
+  - first:
+      213: -4172266812713940040
+    second: MagoTiles_8
+  - first:
+      213: 987623506036557013
+    second: MagoTiles_9
+  - first:
+      213: 1727643428521451916
+    second: MagoTiles_10
+  - first:
+      213: -4258785598005326824
+    second: MagoTiles_11
+  - first:
+      213: 8977870792297531343
+    second: MagoTiles_12
+  - first:
+      213: 7214565438074909302
+    second: MagoTiles_13
+  - first:
+      213: -3578552286323109839
+    second: MagoTiles_14
+  - first:
+      213: 3138000464946870555
+    second: MagoTiles_15
+  - first:
+      213: 739437441455311019
+    second: MagoTiles_16
+  - first:
+      213: 4292575132959616959
+    second: MagoTiles_17
+  - first:
+      213: -2815470589723271602
+    second: MagoTiles_18
+  - first:
+      213: 325144736555784147
+    second: MagoTiles_19
+  - first:
+      213: -6674685552432240598
+    second: MagoTiles_20
+  - first:
+      213: -6004786494653973997
+    second: MagoTiles_21
+  - first:
+      213: -1126965258744502988
+    second: MagoTiles_22
+  - first:
+      213: 9195481258109354185
+    second: MagoTiles_23
+  - first:
+      213: 3106415746424623466
+    second: MagoTiles_24
+  - first:
+      213: 2262937072530061371
+    second: MagoTiles_25
+  - first:
+      213: -3040537487978614961
+    second: MagoTiles_26
+  - first:
+      213: 3693802360148759064
+    second: MagoTiles_27
+  - first:
+      213: -6512338612322268100
+    second: MagoTiles_28
+  - first:
+      213: 7082476872282232942
+    second: MagoTiles_29
+  - first:
+      213: 4864884971230493392
+    second: MagoTiles_30
+  - first:
+      213: 5299506679176755986
+    second: MagoTiles_31
+  - first:
+      213: 3362245266038940412
+    second: MagoTiles_32
+  - first:
+      213: -4412550696677143173
+    second: MagoTiles_33
+  - first:
+      213: 376372263340569518
+    second: MagoTiles_34
+  - first:
+      213: -8982286956983779491
+    second: MagoTiles_35
+  - first:
+      213: 8012511420787630411
+    second: MagoTiles_36
+  - first:
+      213: 5713278209629021085
+    second: MagoTiles_37
+  - first:
+      213: -6540100926494589373
+    second: MagoTiles_38
+  - first:
+      213: 6548578978876543685
+    second: MagoTiles_39
+  - first:
+      213: 6725182765343947871
+    second: MagoTiles_40
+  - first:
+      213: 4962733483337329033
+    second: MagoTiles_41
+  - first:
+      213: -3871924516700930243
+    second: MagoTiles_42
+  - first:
+      213: -5754170358516318862
+    second: MagoTiles_43
+  - first:
+      213: -3893705192591590819
+    second: MagoTiles_44
+  - first:
+      213: -6479156193849820530
+    second: MagoTiles_45
+  - first:
+      213: -8876338013808856964
+    second: MagoTiles_46
+  - first:
+      213: -3917803848334827579
+    second: MagoTiles_47
+  - first:
+      213: -3242707871433659471
+    second: MagoTiles_48
+  - first:
+      213: -1042622441054735057
+    second: MagoTiles_49
+  - first:
+      213: 9011324892730667726
+    second: MagoTiles_50
+  - first:
+      213: 6979889818564145901
+    second: MagoTiles_51
+  - first:
+      213: 4988928832244159878
+    second: MagoTiles_52
+  - first:
+      213: 6839374053822203858
+    second: MagoTiles_53
+  - first:
+      213: -8441168102687714404
+    second: MagoTiles_54
+  - first:
+      213: -9012764212167195187
+    second: MagoTiles_55
+  - first:
+      213: 8248990967601267348
+    second: MagoTiles_56
+  - first:
+      213: -1689982140392236818
+    second: MagoTiles_57
+  - first:
+      213: 178072962220915594
+    second: MagoTiles_58
+  - first:
+      213: 5183072069443365095
+    second: MagoTiles_59
+  - first:
+      213: -1052705231723798316
+    second: MagoTiles_60
+  - first:
+      213: -6176276871881833251
+    second: MagoTiles_61
+  - first:
+      213: -6328534330671372329
+    second: MagoTiles_62
+  - first:
+      213: 4521559922178386027
+    second: MagoTiles_63
+  - first:
+      213: 4843396270170620885
+    second: MagoTiles_64
+  - first:
+      213: 6735129044649767105
+    second: MagoTiles_65
+  - first:
+      213: 8082983141204013913
+    second: MagoTiles_66
+  - first:
+      213: -3346414865566543128
+    second: MagoTiles_67
+  - first:
+      213: -2069335576521869117
+    second: MagoTiles_68
+  - first:
+      213: -3527871968103905791
+    second: MagoTiles_69
+  - first:
+      213: 177837395167718281
+    second: MagoTiles_70
+  - first:
+      213: 3080111529631343363
+    second: MagoTiles_71
+  - first:
+      213: 4326599564774001608
+    second: MagoTiles_72
+  - first:
+      213: -1926068499025764824
+    second: MagoTiles_73
+  - first:
+      213: -8117069042710081811
+    second: MagoTiles_74
+  - first:
+      213: -5272941516184602789
+    second: MagoTiles_75
+  - first:
+      213: 984861356166816319
+    second: MagoTiles_76
+  - first:
+      213: -1806405487498897330
+    second: MagoTiles_77
+  - first:
+      213: -7822825850471972931
+    second: MagoTiles_78
+  - first:
+      213: -6958228769071392715
+    second: MagoTiles_79
+  - first:
+      213: 3368471186429435571
+    second: MagoTiles_80
+  - first:
+      213: -6351046617572523847
+    second: MagoTiles_81
+  - first:
+      213: -3193384397066781258
+    second: MagoTiles_82
+  - first:
+      213: -4038804993540009914
+    second: MagoTiles_83
+  - first:
+      213: 5226311296623592063
+    second: MagoTiles_84
+  - first:
+      213: 8556081391801646271
+    second: MagoTiles_85
+  - first:
+      213: 1641648523917182594
+    second: MagoTiles_86
+  - first:
+      213: 8185985354502929741
+    second: MagoTiles_87
+  - first:
+      213: -165093238956809234
+    second: MagoTiles_88
+  - first:
+      213: 6295937436235441432
+    second: MagoTiles_89
+  - first:
+      213: -5211030739644598524
+    second: MagoTiles_90
+  - first:
+      213: 2757341056277784574
+    second: MagoTiles_91
+  - first:
+      213: 7671438648500682759
+    second: MagoTiles_92
+  - first:
+      213: 4745445511286052262
+    second: MagoTiles_93
+  - first:
+      213: 9196210263984109030
+    second: MagoTiles_94
+  - first:
+      213: 5811481303161808908
+    second: MagoTiles_95
+  - first:
+      213: -2018704746332807952
+    second: MagoTiles_96
+  - first:
+      213: -3346046161563828733
+    second: MagoTiles_97
+  - first:
+      213: 5042696309570893405
+    second: MagoTiles_98
+  - first:
+      213: 8116326357975796687
+    second: MagoTiles_99
+  - first:
+      213: 3974086267585378613
+    second: MagoTiles_100
+  - first:
+      213: 1961172526912492078
+    second: MagoTiles_101
+  - first:
+      213: -3799276026443768381
+    second: MagoTiles_102
+  - first:
+      213: 7436720366852424733
+    second: MagoTiles_103
+  - first:
+      213: 6079655602973043739
+    second: MagoTiles_104
+  - first:
+      213: -5962022529647220988
+    second: MagoTiles_105
+  - first:
+      213: -8002767592205458790
+    second: MagoTiles_106
+  - first:
+      213: -3746228406556167137
+    second: MagoTiles_107
+  - first:
+      213: 3655675984035260353
+    second: MagoTiles_108
+  - first:
+      213: 3941931895983012218
+    second: MagoTiles_109
+  - first:
+      213: -5626008480447855173
+    second: MagoTiles_110
+  - first:
+      213: 7367980742688465029
+    second: MagoTiles_111
+  - first:
+      213: 2148075904178941452
+    second: MagoTiles_112
+  - first:
+      213: 954239279866032088
+    second: MagoTiles_113
+  - first:
+      213: 2220735540848595589
+    second: MagoTiles_114
+  - first:
+      213: -6846179935464805244
+    second: MagoTiles_115
+  - first:
+      213: -2551647711077827296
+    second: MagoTiles_116
+  - first:
+      213: -2505937214992824049
+    second: MagoTiles_117
+  - first:
+      213: -9173484941196695268
+    second: MagoTiles_118
+  - first:
+      213: -234090265092678622
+    second: MagoTiles_119
+  - first:
+      213: -1692994344809217210
+    second: MagoTiles_120
+  - first:
+      213: -7243032957197073932
+    second: MagoTiles_121
+  - first:
+      213: -3660327501996886797
+    second: MagoTiles_122
+  - first:
+      213: -2369006213245139704
+    second: MagoTiles_123
+  - first:
+      213: 6010714708303345464
+    second: MagoTiles_124
+  - first:
+      213: 5152571060624841648
+    second: MagoTiles_125
+  - first:
+      213: -6231951535515669876
+    second: MagoTiles_126
+  - first:
+      213: -4550372735366273454
+    second: MagoTiles_127
+  - first:
+      213: 7106090107865554283
+    second: MagoTiles_128
+  - first:
+      213: 487130335040773216
+    second: MagoTiles_129
+  - first:
+      213: 3776399508674120826
+    second: MagoTiles_130
+  - first:
+      213: -7401151970427910729
+    second: MagoTiles_131
+  - first:
+      213: -8377298385437882148
+    second: MagoTiles_132
+  - first:
+      213: -6104588434298798244
+    second: MagoTiles_133
+  - first:
+      213: -7863378865319476129
+    second: MagoTiles_134
+  - first:
+      213: -6490229925274279595
+    second: MagoTiles_135
+  - first:
+      213: 8956558907266923504
+    second: MagoTiles_136
+  - first:
+      213: -9151013907709855976
+    second: MagoTiles_137
+  - first:
+      213: 5378722538330572453
+    second: MagoTiles_138
+  - first:
+      213: 4320204718539678735
+    second: MagoTiles_139
+  - first:
+      213: 2292190130657125960
+    second: MagoTiles_140
+  - first:
+      213: -5659015001680717091
+    second: MagoTiles_141
+  - first:
+      213: -3901441849271150590
+    second: MagoTiles_142
+  - first:
+      213: -654964730092598982
+    second: MagoTiles_143
+  - first:
+      213: -1376973278266488221
+    second: MagoTiles_144
+  - first:
+      213: 7774433555272636694
+    second: MagoTiles_145
+  - first:
+      213: 6271549632807313421
+    second: MagoTiles_146
+  - first:
+      213: -5548523428561806535
+    second: MagoTiles_147
+  - first:
+      213: -5546094666726193277
+    second: MagoTiles_148
+  - first:
+      213: 3372942764710577601
+    second: MagoTiles_149
+  - first:
+      213: -6443852308574520715
+    second: MagoTiles_150
+  - first:
+      213: 1176678349791459265
+    second: MagoTiles_151
+  - first:
+      213: -1169727764746733379
+    second: MagoTiles_152
+  - first:
+      213: -859727497350994335
+    second: MagoTiles_153
+  - first:
+      213: -2216734007240007042
+    second: MagoTiles_154
+  - first:
+      213: 687903790116914782
+    second: MagoTiles_155
+  - first:
+      213: 327459000443084021
+    second: MagoTiles_156
+  - first:
+      213: -7806660196769467756
+    second: MagoTiles_157
+  - first:
+      213: 303740311816625421
+    second: MagoTiles_158
+  - first:
+      213: -428254431460820357
+    second: MagoTiles_159
+  - first:
+      213: -3162149056623151850
+    second: MagoTiles_160
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Yellow stone floor
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 481
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c80d236499985240800000000000000
+      internalID: 4780739867051886787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greenish metal floor
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 481
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383f218785eb6a880800000000000000
+      internalID: -8599977151236476029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greenish metal wall1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 481
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b34663c01a9fb8b0800000000000000
+      internalID: -5134215653390662732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greenish metal wall2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 481
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acc4c20099ab3f00800000000000000
+      internalID: 1097657370181684387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greenish metal wall with hole
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 481
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d4b7f3f9ce7f140800000000000000
+      internalID: 4753528100421848449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow wall1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 481
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d6f5bf6f05a39b0800000000000000
+      internalID: -5099674606334153347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow wall cracked
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 481
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5615831f36ae6ca0800000000000000
+      internalID: -6021692861907134885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow wall with hole
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 481
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefceb7da508ec190800000000000000
+      internalID: -7940267965352587282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outwall right
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 481
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbc80080712916c0800000000000000
+      internalID: -4172266812713940040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outwall left
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 481
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d48229985eb4bd00800000000000000
+      internalID: 987623506036557013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outwall RnLnDown
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 481
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c812f877b82d9f710800000000000000
+      internalID: 1727643428521451916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outwall both upper corners
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 481
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81cc7580011c5e4c0800000000000000
+      internalID: -4258785598005326824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outwall RnL
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 481
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7cf363bedc79c70800000000000000
+      internalID: 8977870792297531343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stain big
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 481
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672f341aa094f1460800000000000000
+      internalID: 7214565438074909302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stain small
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 481
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1309c83d7ad665ec0800000000000000
+      internalID: -3578552286323109839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door front
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b193b2a0cca6c8b20800000000000000
+      internalID: 3138000464946870555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door side
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8419f6f62034a00800000000000000
+      internalID: 739437441455311019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shelf1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfabb3275a429b30800000000000000
+      internalID: 4292575132959616959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_18
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e1cf76a607de8d0800000000000000
+      internalID: -2815470589723271602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barel side
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7defa4a65238400800000000000000
+      internalID: 325144736555784147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barel front
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2828d3aad0ce53a0800000000000000
+      internalID: -6674685552432240598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk with items
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a36127f76baaca0800000000000000
+      internalID: -6004786494653973997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair left
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435e35e61173c50f0800000000000000
+      internalID: -1126965258744502988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair right
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0ce580c79ec9f70800000000000000
+      internalID: 9195481258109354185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61d152b9a43c1b20800000000000000
+      internalID: 3106415746424623466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden box
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3877352741976f10800000000000000
+      internalID: 2262937072530061371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_26
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fa6ce9347ddc5d0800000000000000
+      internalID: -3040537487978614961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_27
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8129a2b0da5034330800000000000000
+      internalID: 3693802360148759064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_28
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c887339868f95a0800000000000000
+      internalID: -6512338612322268100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save Box
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e685d46d0330a4260800000000000000
+      internalID: 7082476872282232942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gotube LnR
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 413
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da74572b1b838340800000000000000
+      internalID: 4864884971230493392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gotube right
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 413
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bf3292f31ab8940800000000000000
+      internalID: 5299506679176755986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gotube middle
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 413
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf26df9614819ae20800000000000000
+      internalID: 3362245266038940412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gotube left
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 413
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d0823258873c2c0800000000000000
+      internalID: -4412550696677143173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outwall left upper corner
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 413
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea379b35494293500800000000000000
+      internalID: 376372263340569518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outwall right upper corner
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 413
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f7b525a91885380800000000000000
+      internalID: -8982286956983779491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_36
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 413
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41aec26fa8223f60800000000000000
+      internalID: 8012511420787630411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 413
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93eaebe244a94f40800000000000000
+      internalID: 5713278209629021085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 413
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e3619bbd4ec35a0800000000000000
+      internalID: -6540100926494589373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden box cracked
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 413
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2d68ba2e931ea50800000000000000
+      internalID: 6548578978876543685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_40
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 413
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cb7e1f716a45d50800000000000000
+      internalID: 6725182765343947871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_41
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 413
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98922453fcb2fd440800000000000000
+      internalID: 4962733483337329033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_42
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 413
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f3ae89a29244ac0800000000000000
+      internalID: -3871924516700930243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_43
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 413
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d7d8bbb841520b0800000000000000
+      internalID: -5754170358516318862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_44
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 413
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5afb7fc1c7c6f9c0800000000000000
+      internalID: -3893705192591590819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 379
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a3f4d05c96516a0800000000000000
+      internalID: -6479156193849820530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_46
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 379
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7070a4fa99e0d480800000000000000
+      internalID: -8876338013808856964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_47
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 379
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf1858482a21a9c0800000000000000
+      internalID: -3917803848334827579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_48
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 379
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb65dc1f569ff2d0800000000000000
+      internalID: -3242707871433659471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_49
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 379
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25f416f96cd781f0800000000000000
+      internalID: -1042622441054735057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_50
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 379
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2b8d2fe38ae0d70800000000000000
+      internalID: 9011324892730667726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_51
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 379
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2b1e61fcc8dd060800000000000000
+      internalID: 6979889818564145901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_52
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 379
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6851e97275c3c3540800000000000000
+      internalID: 4988928832244159878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vases
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 379
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7881427765aee50800000000000000
+      internalID: 6839374053822203858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden box cracked2
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 379
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93d0f57552fada80800000000000000
+      internalID: -8441168102687714404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden box destroyed
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 379
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5cb6163ba3ce280800000000000000
+      internalID: -9012764212167195187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_56
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 379
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492874b749d4a7270800000000000000
+      internalID: 8248990967601267348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box bomb
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 379
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee89a2d723afb88e0800000000000000
+      internalID: -1689982140392236818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolfer
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 379
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b77496a64a87200800000000000000
+      internalID: 178072962220915594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_59
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 379
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8ab680698fde740800000000000000
+      internalID: 5183072069443365095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 345
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d068e15b2a0461f0800000000000000
+      internalID: -1052705231723798316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_61
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 345
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4c50988e4794aa0800000000000000
+      internalID: -6176276871881833251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_62
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 345
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7e7776e878c28a0800000000000000
+      internalID: -6328534330671372329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_63
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 345
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68e5100bcecfbe30800000000000000
+      internalID: 4521559922178386027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_64
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 345
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3c8fd0f33373340800000000000000
+      internalID: 4843396270170620885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_65
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 345
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0f3ce8e2cf77d50800000000000000
+      internalID: 6735129044649767105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_66
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 345
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953bfe867568c2070800000000000000
+      internalID: 8082983141204013913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_67
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 345
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2d1dae8652f81d0800000000000000
+      internalID: -3346414865566543128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken vases
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 345
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8f558c14e3843e0800000000000000
+      internalID: -2069335576521869117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 345
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106cb10f22b7a0fc0800000000000000
+      internalID: -3527871968103905791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Open chest
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 345
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ba0ce2b2ec77200800000000000000
+      internalID: 177837395167718281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_71
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 345
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303e248fd11ceba20800000000000000
+      internalID: 3080111529631343363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closed Mimic
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 345
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbc6bf716b2b0c30800000000000000
+      internalID: 4326599564774001608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Open Mimic
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 345
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82edf76a7ea3545e0800000000000000
+      internalID: -1926068499025764824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 345
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee02f336b06a5f80800000000000000
+      internalID: -8117069042710081811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_75
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 311
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b573866d0afb2d6b0800000000000000
+      internalID: -5272941516184602789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_76
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 311
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3225577f2eeaad00800000000000000
+      internalID: 984861356166816319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_77
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 311
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48df45a7cb5ee6e0800000000000000
+      internalID: -1806405487498897330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 311
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfffda065dbf6390800000000000000
+      internalID: -7822825850471972931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden sword
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 311
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53898910dc76f6f90800000000000000
+      internalID: -6958228769071392715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fine sword
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 311
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bed34772b63fbe20800000000000000
+      internalID: 3368471186429435571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_81
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 311
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0c4a720cc8cd7a0800000000000000
+      internalID: -6351046617572523847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_82
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 311
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd3f856fc1dea3d0800000000000000
+      internalID: -3193384397066781258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_83
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 311
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64059f2c14843f7c0800000000000000
+      internalID: -4038804993540009914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_84
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 311
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f724cd02f66978840800000000000000
+      internalID: 5226311296623592063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hole
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 277
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcbaab91be4db670800000000000000
+      internalID: 8556081391801646271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magma floor
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 277
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286c02a72ae48c610800000000000000
+      internalID: 1641648523917182594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison floor
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 277
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d72b70f467a9170800000000000000
+      internalID: 8185985354502929741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health essence
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 277
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee32929e29875bdf0800000000000000
+      internalID: -165093238956809234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wrench
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 277
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815a5eeadb9af5750800000000000000
+      internalID: 6295937436235441432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 277
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407b7d9c623bea7b0800000000000000
+      internalID: -5211030739644598524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_91
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 277
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7a908e41b044620800000000000000
+      internalID: 2757341056277784574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_92
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 277
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70006184ecc667a60800000000000000
+      internalID: 7671438648500682759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_93
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 277
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a55d21dc853bd140800000000000000
+      internalID: 4745445511286052262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_94
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 277
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5f290f2808f9f70800000000000000
+      internalID: 9196210263984109030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protection essence
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08a8c5647786a050800000000000000
+      internalID: 5811481303161808908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stick
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc10709abe1cf3e0800000000000000
+      internalID: -2018704746332807952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_97
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ebde18eb47091d0800000000000000
+      internalID: -3346046161563828733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_98
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56752283914bf540800000000000000
+      internalID: 5042696309570893405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_99
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb894802dbf2a070800000000000000
+      internalID: 8116326357975796687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_100
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5393f2e976ac62730800000000000000
+      internalID: 3974086267585378613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_101
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22dfd1c50c773b10800000000000000
+      internalID: 1961172526912492078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 209
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd59285592464bc0800000000000000
+      internalID: -3799276026443768381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_103
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 209
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14c620b5c9843760800000000000000
+      internalID: 7436720366852424733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_104
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 209
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cebeb3f864f5450800000000000000
+      internalID: 6079655602973043739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_105
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 209
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4076081f814a24da0800000000000000
+      internalID: -5962022529647220988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_106
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 209
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92e59e764570f090800000000000000
+      internalID: -8002767592205458790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_107
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 209
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14fdb3dc19b20cc0800000000000000
+      internalID: -3746228406556167137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_108
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 209
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7295a50f19bb230800000000000000
+      internalID: 3655675984035260353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_109
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7979d49c2e84b630800000000000000
+      internalID: 3941931895983012218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_110
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5029b48176ce1b0800000000000000
+      internalID: -5626008480447855173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_111
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5806ddfb273504660800000000000000
+      internalID: 7367980742688465029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_112
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e692367af7fcd10800000000000000
+      internalID: 2148075904178941452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_113
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfa32bb1932e3d00800000000000000
+      internalID: 954239279866032088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_114
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5829d5c5533a1de10800000000000000
+      internalID: 2220735540848595589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_115
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ca63e0f9b7df0a0800000000000000
+      internalID: -6846179935464805244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_116
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 141
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d744d0de9b69cd0800000000000000
+      internalID: -2551647711077827296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazy fish
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 141
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09cbe6416f193dd0800000000000000
+      internalID: -2505937214992824049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 141
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1963979c0c31b080800000000000000
+      internalID: -9173484941196695268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Fish
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 141
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c16c7e42850ccf0800000000000000
+      internalID: -234090265092678622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small bow
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 141
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643c6eefc964188e0800000000000000
+      internalID: -1692994344809217210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small arrow
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 141
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f142d196e39b7b90800000000000000
+      internalID: -7243032957197073932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_122
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 141
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4f1e9b787e33dc0800000000000000
+      internalID: -3660327501996886797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_123
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80584dc86699f1fd0800000000000000
+      internalID: -2369006213245139704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow bow
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837f2aa5e295a6350800000000000000
+      internalID: 6010714708303345464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow arrow
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb5084841c918740800000000000000
+      internalID: 5152571060624841648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_126
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a6324c819a389a0800000000000000
+      internalID: -6231951535515669876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fine axe
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256eed82b14d9d0c0800000000000000
+      internalID: -4550372735366273454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_128
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d5e3dad47ed9260800000000000000
+      internalID: 7106090107865554283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_129
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c1c637572a2c600800000000000000
+      internalID: 487130335040773216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_130
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 73
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c0b7c4857786430800000000000000
+      internalID: 3776399508674120826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dendroball
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 73
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b546f1fe73d94990800000000000000
+      internalID: -7401151970427910729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frostball
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 73
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd88586d08bddbb80800000000000000
+      internalID: -8377298385437882148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Waterball
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 73
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f79a99925284ba0800000000000000
+      internalID: -6104588434298798244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireball
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 73
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54815e759aafd290800000000000000
+      internalID: -7863378865319476129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakuraball
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 73
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551aa6905421ee5a0800000000000000
+      internalID: -6490229925274279595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heartparticles
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 73
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb718d4fd61c4c70800000000000000
+      internalID: 8956558907266923504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_137
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8177b48c551110180800000000000000
+      internalID: -9151013907709855976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_138
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6c492a6af05aa40800000000000000
+      internalID: 5378722538330572453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electroball
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0426855d4374fb30800000000000000
+      internalID: 4320204718539678735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anemoball
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846697f77ce7fcf10800000000000000
+      internalID: 2292190130657125960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_141
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddad636b6d32771b0800000000000000
+      internalID: -5659015001680717091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_142
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208995e0f4b4bd9c0800000000000000
+      internalID: -3901441849271150590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_143
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39cb625c0919e6f0800000000000000
+      internalID: -654964730092598982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_144
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a88b3591204ece0800000000000000
+      internalID: -1376973278266488221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_145
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 5
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61917e7b02654eb60800000000000000
+      internalID: 7774433555272636694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_146
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 5
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0026b6b925090750800000000000000
+      internalID: 6271549632807313421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_147
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 5
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b14acc65faff2b0800000000000000
+      internalID: -5548523428561806535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strange hammer
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 5
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387c81bf8405803b0800000000000000
+      internalID: -5546094666726193277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_149
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 5
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c54c4ae2991fce20800000000000000
+      internalID: 3372942764710577601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_150
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 5
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ab5526776d296a0800000000000000
+      internalID: -6443852308574520715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_151
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 5
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7763e89b6645010800000000000000
+      internalID: 1176678349791459265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagoTiles_152
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 5
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8fb52abca44cfe0800000000000000
+      internalID: -1169727764746733379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d9f374f4063bcaf448defa69ea12c366
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":2.0,"y":2.0},"gridSpritePadding":{"x":2.0,"y":2.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":1,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Anemoball: 2292190130657125960
+      Barel front: -6674685552432240598
+      Barel side: 325144736555784147
+      Box bomb: -1689982140392236818
+      Broken vases: -2069335576521869117
+      Chair left: -1126965258744502988
+      Chair right: 9195481258109354185
+      Chest: -3527871968103905791
+      Closed Mimic: 4326599564774001608
+      Coin: -7822825850471972931
+      Crazy fish: -2505937214992824049
+      Dendroball: -7401151970427910729
+      Desk: 3106415746424623466
+      Desk with items: -6004786494653973997
+      Door front: 3138000464946870555
+      Door side: 739437441455311019
+      Electroball: 4320204718539678735
+      Explosion: -8117069042710081811
+      Fine axe: -4550372735366273454
+      Fine sword: 3368471186429435571
+      Fire: -3799276026443768381
+      Fireball: -7863378865319476129
+      Fish: -9173484941196695268
+      Frostball: -8377298385437882148
+      Golden Fish: -234090265092678622
+      Gotube LnR: 4864884971230493392
+      Gotube left: -4412550696677143173
+      Gotube middle: 3362245266038940412
+      Gotube right: 5299506679176755986
+      Greenish metal floor: -8599977151236476029
+      Greenish metal wall with hole: 4753528100421848449
+      Greenish metal wall1: -5134215653390662732
+      Greenish metal wall2: 1097657370181684387
+      Health essence: -165093238956809234
+      Heartparticles: 8956558907266923504
+      Hole: 8556081391801646271
+      Magma floor: 1641648523917182594
+      Mago: -6540100926494589373
+      MagoTiles_100: 3974086267585378613
+      MagoTiles_101: 1961172526912492078
+      MagoTiles_103: 7436720366852424733
+      MagoTiles_104: 6079655602973043739
+      MagoTiles_105: -5962022529647220988
+      MagoTiles_106: -8002767592205458790
+      MagoTiles_107: -3746228406556167137
+      MagoTiles_108: 3655675984035260353
+      MagoTiles_109: 3941931895983012218
+      MagoTiles_110: -5626008480447855173
+      MagoTiles_111: 7367980742688465029
+      MagoTiles_112: 2148075904178941452
+      MagoTiles_113: 954239279866032088
+      MagoTiles_114: 2220735540848595589
+      MagoTiles_115: -6846179935464805244
+      MagoTiles_116: -2551647711077827296
+      MagoTiles_122: -3660327501996886797
+      MagoTiles_123: -2369006213245139704
+      MagoTiles_126: -6231951535515669876
+      MagoTiles_128: 7106090107865554283
+      MagoTiles_129: 487130335040773216
+      MagoTiles_130: 3776399508674120826
+      MagoTiles_137: -9151013907709855976
+      MagoTiles_138: 5378722538330572453
+      MagoTiles_141: -5659015001680717091
+      MagoTiles_142: -3901441849271150590
+      MagoTiles_143: -654964730092598982
+      MagoTiles_144: -1376973278266488221
+      MagoTiles_145: 7774433555272636694
+      MagoTiles_146: 6271549632807313421
+      MagoTiles_147: -5548523428561806535
+      MagoTiles_149: 3372942764710577601
+      MagoTiles_150: -6443852308574520715
+      MagoTiles_151: 1176678349791459265
+      MagoTiles_152: -1169727764746733379
+      MagoTiles_18: -2815470589723271602
+      MagoTiles_26: -3040537487978614961
+      MagoTiles_27: 3693802360148759064
+      MagoTiles_28: -6512338612322268100
+      MagoTiles_36: 8012511420787630411
+      MagoTiles_37: 5713278209629021085
+      MagoTiles_40: 6725182765343947871
+      MagoTiles_41: 4962733483337329033
+      MagoTiles_42: -3871924516700930243
+      MagoTiles_43: -5754170358516318862
+      MagoTiles_44: -3893705192591590819
+      MagoTiles_45: -6479156193849820530
+      MagoTiles_46: -8876338013808856964
+      MagoTiles_47: -3917803848334827579
+      MagoTiles_48: -3242707871433659471
+      MagoTiles_49: -1042622441054735057
+      MagoTiles_50: 9011324892730667726
+      MagoTiles_51: 6979889818564145901
+      MagoTiles_52: 4988928832244159878
+      MagoTiles_56: 8248990967601267348
+      MagoTiles_59: 5183072069443365095
+      MagoTiles_60: -1052705231723798316
+      MagoTiles_61: -6176276871881833251
+      MagoTiles_62: -6328534330671372329
+      MagoTiles_63: 4521559922178386027
+      MagoTiles_64: 4843396270170620885
+      MagoTiles_65: 6735129044649767105
+      MagoTiles_66: 8082983141204013913
+      MagoTiles_67: -3346414865566543128
+      MagoTiles_71: 3080111529631343363
+      MagoTiles_75: -5272941516184602789
+      MagoTiles_76: 984861356166816319
+      MagoTiles_77: -1806405487498897330
+      MagoTiles_81: -6351046617572523847
+      MagoTiles_82: -3193384397066781258
+      MagoTiles_83: -4038804993540009914
+      MagoTiles_84: 5226311296623592063
+      MagoTiles_91: 2757341056277784574
+      MagoTiles_92: 7671438648500682759
+      MagoTiles_93: 4745445511286052262
+      MagoTiles_94: 9196210263984109030
+      MagoTiles_97: -3346046161563828733
+      MagoTiles_98: 5042696309570893405
+      MagoTiles_99: 8116326357975796687
+      Open Mimic: -1926068499025764824
+      Open chest: 177837395167718281
+      Outwall RnL: 8977870792297531343
+      Outwall RnLnDown: 1727643428521451916
+      Outwall both upper corners: -4258785598005326824
+      Outwall left: 987623506036557013
+      Outwall left upper corner: 376372263340569518
+      Outwall right: -4172266812713940040
+      Outwall right upper corner: -8982286956983779491
+      Poison floor: 8185985354502929741
+      Protection essence: 5811481303161808908
+      Rainbow arrow: 5152571060624841648
+      Rainbow bow: 6010714708303345464
+      Sakuraball: -6490229925274279595
+      Save Box: 7082476872282232942
+      Shelf1: 4292575132959616959
+      Small arrow: -7243032957197073932
+      Small bow: -1692994344809217210
+      Stain big: 7214565438074909302
+      Stain small: -3578552286323109839
+      Stick: -2018704746332807952
+      Strange hammer: -5546094666726193277
+      Torch: -5211030739644598524
+      Vases: 6839374053822203858
+      Waterball: -6104588434298798244
+      Wolfer: 178072962220915594
+      Wooden box: 2262937072530061371
+      Wooden box cracked: 6548578978876543685
+      Wooden box cracked2: -8441168102687714404
+      Wooden box destroyed: -9012764212167195187
+      Wooden sword: -6958228769071392715
+      Wrench: 6295937436235441432
+      Yellow stone floor: 4780739867051886787
+      Yellow wall cracked: -6021692861907134885
+      Yellow wall with hole: -7940267965352587282
+      Yellow wall1: -5099674606334153347
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,7 +1,7 @@
 using UnityEngine;
 using Inventory.Database;
 using System;
-using Inventory.Item;
+using Inventory.Items;
 
 namespace Inventory.Container
 {
@@ -11,7 +11,7 @@ namespace Inventory.Container
         public ItemDatabaseObject database; //ссылка на базу данных
         public Inventory container;//представляет из себя весь инвентарь, содержит в себе кол-во слотов, которые могут быть
 
-        public void AddItem(Item.Item item, int amount)
+        public void AddItem(Items.Item item, int amount)
         {
             int remaining = amount;
             
@@ -84,9 +84,53 @@ namespace Inventory.Container
                 slot.UpdateSlot(-1, 0, database);
             }
         }
+
+        public bool SplitItem(InventorySlot fromSlot, InventorySlot toSlot, int requestAmount)
+        {
+            if (ReferenceEquals(fromSlot, toSlot))
+                return false;
+
+            if (fromSlot.item != null && !toSlot.CanPlaceInSlot(fromSlot.item))
+            {
+                Debug.LogError("Нельзя это положить сюда");
+                return false;
+            }
+            
+            if(requestAmount <= 0 || requestAmount > fromSlot.amount)
+                return false;
+            
+            bool idSameItem = fromSlot.ID == toSlot.ID;
+            bool isEmptySlot = toSlot.ID == -1; // если тащим пустой слот в пустой слот, то ничего не происходит
+            
+            if(!isEmptySlot && idSameItem)
+                return false;
+            
+            int amountActual; //я понял?
+
+            if (isEmptySlot)// слот пустой? Тогда закидываем предмет спокойно
+            {
+                amountActual = requestAmount;
+                toSlot.UpdateSlot(fromSlot.ID, amountActual, database);
+            }
+            else // разбиваем количество предмета по обеим ячейкам если MaxStack
+            {
+                int space = fromSlot.item.MaxStack - toSlot.amount;
+                if(space <= 0)
+                    return false;
+                
+                amountActual = Math.Min(space, requestAmount);
+                toSlot.AddAmount(amountActual);
+            }
+            
+            fromSlot.AddAmount(-amountActual);
+            
+            if(fromSlot.amount <= 0)
+                RemoveItem(fromSlot);
+
+            return true;
+        }
         
-        
-        private bool SetEmptySlot(Item.Item item, int value)
+        private bool SetEmptySlot(Items.Item item, int value)
         {
             foreach (var slot in container.Items)
             {
@@ -112,8 +156,8 @@ namespace Inventory.Container
     {
         [field: NonSerialized] public event Action OnChanged;
         
-        [NonSerialized] private Item.Item _cachedItem;
-        public Item.Item item => _cachedItem;
+        [NonSerialized] private Items.Item _cachedItem;
+        public Items.Item item => _cachedItem;
         
         public int ID = -1;
         public int amount;
@@ -134,18 +178,19 @@ namespace Inventory.Container
         public void AddAmount(int value)
         {
             amount += value;
+            OnChanged?.Invoke();
         }
-
+        
         public void UpdateSlot(int id, int value, ItemDatabaseObject database)
         {
             ID = id;
             amount = value;
             RefreshCache(database);
-            OnChanged?.Invoke();
+            OnChanged?.Invoke();//?. проверка на нул
         }
-        
-        
-        private bool CanPlaceInSlot(ItemsObject item)
+
+
+        public bool CanPlaceInSlot(Items.Item item) //если слот не пустой - вернет "проблему"
         {
             if (ID <= -1 && amount <= 0)
                 return true;

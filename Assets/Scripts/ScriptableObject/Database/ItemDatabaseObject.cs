@@ -1,5 +1,5 @@
 using System.Collections.Generic;
-using Inventory.Item;
+using Inventory.Items;
 using UnityEngine;
 
 namespace Inventory.Database
@@ -7,17 +7,17 @@ namespace Inventory.Database
     [CreateAssetMenu(fileName = "New Item Database", menuName = "Inventory System/Database", order = 0)]
     public class ItemDatabaseObject : ScriptableObject, ISerializationCallbackReceiver
     {
-        public ItemsObject[]  items;
+        public ItemsObject[]  Items;
         public Dictionary<int, ItemsObject> GetItem = new Dictionary<int, ItemsObject>();
 
         public void OnAfterDeserialize()
         {
             GetItem = new Dictionary<int, ItemsObject>();
 
-            for (int i = 0; i < items.Length; i++)
+            for (int i = 0; i < Items.Length; i++)
             {
-                items[i].Id = i;
-                GetItem.Add(i, items[i]);
+                Items[i].Id = i;
+                GetItem.Add(i, Items[i]);
             }
         }
         

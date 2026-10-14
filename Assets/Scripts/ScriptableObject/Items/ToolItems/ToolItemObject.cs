@@ -1,9 +1,9 @@
-using Inventory.Item.Flags;
-using Inventory.Item;
-using Inventory.Item.ToolItems;
+using Inventory.Items;
+using Inventory.Items.Flags;
+using Inventory.Items.ToolItems;
 using UnityEngine;
 
-namespace Inventory.Item.ToolItem
+namespace Inventory.Items.ToolItem
 {
     [CreateAssetMenu(fileName = "New Tool Item", menuName = "Inventory System/Item/Tool Item Object")]
     

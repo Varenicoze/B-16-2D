@@ -1,41 +1,50 @@
 using Inventory.Container;
+using UI.SeparatePanel;
 using UnityEngine;
 using UnityEngine.EventSystems;
+using UnityEngine.InputSystem;
 using UnityEngine.UI;
 
+namespace Inventory
+{
     public abstract class InventoryView : MonoBehaviour
     {
         public InventoryObject inventory;
-        public GameObject SlotPrefab;
+        public GameObject slotPrefab;
         
-        [SerializeField] private float _widthDragVisual;
-        [SerializeField] private float _heightDragVisual;
-        
-        protected InventorySlot[] Slots;
-        
+        [SerializeField] private Vector2 _spriteSizeVisual = new Vector2(100, 100);
+
+        protected InventorySlot[] slots;
+
         private static readonly MouseItem mouseItem = new MouseItem();
         private static GameObject _dragVisual;
         private RectTransform _dragVisualRect;
         private Canvas _dragVisualCanvas;
-        private Image _dragVisualImage;
+        private static Image _dragVisualImage;
+        private bool _isManualDragActive;
 
         public virtual void OnLeftClick(InventorySlot slot){}
         public virtual void OnRightClick(InventorySlot slot){}
 
         public abstract void CreateSlots();
-        public abstract void CreateSlot(InventorySlot slot);
 
         private void Start()
         {
             CreateSlots();
+            SlotEventBinder.BindInventoryUIEvent(gameObject, this);
             _dragVisual = GetDragVisual();
         }
 
+        public virtual void ClearSlots()
+        {
+            
+        }
+        
         public void OnEnterInterface(GameObject obj)
         {
             mouseItem.ui = this;
         }
-        
+
         public void OnExitInterface(GameObject obj)
         {
             mouseItem.item = null;
@@ -45,47 +54,56 @@ using UnityEngine.UI;
         {
             mouseItem.toSlot = slot;
         }
-        
+
         public void OnExit(InventorySlot slot)
         {
             if (mouseItem != null && mouseItem.toSlot != null)
-            mouseItem.toSlot = null;
+                mouseItem.toSlot = null;
         }
 
         public void OnDragStart(InventorySlot slot)
         {
             if (slot.ID >= 0)
             {
-                _dragVisualImage.sprite = inventory.database.GetItem[mouseItem.toSlot.ID].uiDisplay;
+                _dragVisualImage.sprite = inventory.database.GetItem[slot.ID].uiDisplay;
                 _dragVisual.SetActive(true);
             }
-            
+
             mouseItem.obj = _dragVisual;
             mouseItem.toSlot = slot;
             _dragVisualCanvas = mouseItem.obj.GetComponentInParent<Canvas>();
+            _dragVisualRect = mouseItem.obj.GetComponentInParent<RectTransform>();
         }
-        
+
         public void OnDrag(InventorySlot slot, PointerEventData eventData)
         {
-            if(!mouseItem.obj)
+            if (!mouseItem.obj)
                 return;
 
-            RectTransformUtility.ScreenPointToWorldPointInRectangle(
-                _dragVisualRect.parent as RectTransform,
-                eventData.position,
-                eventData.pressEventCamera,
-                out Vector3 worldPoint
-            );
-            
-            _dragVisualRect.pivot = worldPoint;
+            if (_dragVisualCanvas.renderMode == RenderMode.ScreenSpaceOverlay)
+            {
+                _dragVisualRect.position = eventData.position;
+            }
+            else
+            {
+                RectTransformUtility.ScreenPointToWorldPointInRectangle(
+                    _dragVisualRect.parent as RectTransform,
+                    eventData.position,
+                    eventData.pressEventCamera,
+                    out Vector3 worldPoint
+                );
+                
+                _dragVisualRect.position = worldPoint;
+            }
         }
-        
+
         public void OnDragEnd(InventorySlot fromSlot)
         {
-            InventorySlot toSlot = mouseItem.toSlot ?? fromSlot;
-            
+            InventorySlot
+                toSlot = mouseItem.toSlot ?? fromSlot; //проверка на нул. Если toSlot не равен нулю, то взять toSlot
+            //Если toSlot равен нулю, то взять fromSlot
             inventory.MoveItem(toSlot, fromSlot);
-            
+
             _dragVisual.SetActive(false);
             mouseItem.toSlot = null;
         }
@@ -96,18 +114,62 @@ using UnityEngine.UI;
             {
                 _dragVisual = new GameObject("Drag Visual");
                 var rt = _dragVisual.AddComponent<RectTransform>();
-                rt.sizeDelta = new Vector2(_widthDragVisual, _heightDragVisual);
+                rt.sizeDelta = _spriteSizeVisual;
                 _dragVisualImage = _dragVisual.AddComponent<Image>();
                 _dragVisualImage.raycastTarget = false;
             }
 
-            Canvas rootCanvas = GetComponentInParent<Canvas>();
+            Canvas rootCanvas = GetComponentInParent<Canvas>().rootCanvas;
 
-            _dragVisual.transform.SetParent(rootCanvas .transform);
-            _dragVisual.transform.SetAsFirstSibling();
+            _dragVisual.transform.SetParent(rootCanvas.transform);
+            _dragVisual.transform.SetAsLastSibling();
             _dragVisual.SetActive(false);
-            
+
             return _dragVisual;
+        }
+        
+        protected void StartManualDrag(int itemId)
+        {
+            var img = _dragVisualImage;
+            img.sprite = inventory.database.GetItem[itemId].uiDisplay;
+            img.raycastTarget = false;
+            _dragVisual.SetActive(true);
+            
+            mouseItem.obj = _dragVisual;
+            mouseItem.ui = this;
+            _isManualDragActive = true;
+        }
+
+        protected void StopManualDrag()
+        {
+            _dragVisual.SetActive(false);
+            _isManualDragActive = false;
+            mouseItem.toSlot = null;
+        }
+
+        private void Update()
+        {
+            if (!_isManualDragActive)
+                return;
+            
+            Vector2 pointerPosition = Mouse.current.position.ReadValue();
+            var rt = _dragVisual.GetComponent<RectTransform>();
+            var canvas = rt.GetComponentInParent<Canvas>();
+            
+            if(canvas.renderMode == RenderMode.ScreenSpaceOverlay)
+            {
+                rt.position = pointerPosition;
+            }
+            else
+            {
+                RectTransformUtility.ScreenPointToWorldPointInRectangle(
+                    rt.parent as RectTransform,
+                    pointerPosition,
+                    canvas.worldCamera,
+                    out Vector3 worldPoint);
+                
+                rt.position = worldPoint;
+            }
         }
     }
 
@@ -118,3 +180,4 @@ using UnityEngine.UI;
         public InventorySlot item;
         public InventorySlot toSlot;
     }
+}

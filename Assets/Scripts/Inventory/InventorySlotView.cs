@@ -53,5 +53,15 @@ namespace Inventory
                 amountText.text = string.Empty;
             }
         }
+
+        public void Unbind()
+        {
+            if (_slot != null)
+                _slot.OnChanged -= Refresh;
+            
+            _slot = null;
+            _database = null;
+            
+        }
     }
 }

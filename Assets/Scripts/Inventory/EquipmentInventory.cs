@@ -4,7 +4,7 @@ using UnityEngine.EventSystems;
 
 namespace Inventory
 {
-    public abstract class InventoryView : MonoBehaviour
+    public abstract class EquipmentInventoryView : MonoBehaviour
     {
         public InventoryObject inventory;
         public GameObject SlotPrefab;

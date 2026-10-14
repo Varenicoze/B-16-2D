@@ -1,7 +1,7 @@
-using Inventory.Item.Flags;
+using Inventory.Items.Flags;
 using UnityEngine;
 
-namespace Inventory.Item.ToolItems
+namespace Inventory.Items.ToolItems
 {
     public interface IToolUsable
     { 

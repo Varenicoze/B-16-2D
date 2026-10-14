@@ -13,10 +13,11 @@ MonoBehaviour:
   m_Name: Hammer
   m_EditorClassIdentifier: Assembly-CSharp::Inventory.Item.ToolItem.ToolItemObject
   Id: 0
-  Name: 
-  uiDisplay: {fileID: 0}
-  Description: 
-  MaxStack: 0
-  Category: 5
-  <Capability>k__BackingField: 17
-  <Volume>k__BackingField: 0
+  Name: "\u041C\u043E\u043B\u043E\u0442\u043E\u043A"
+  uiDisplay: {fileID: -5546094666726193277, guid: 1f8d1415ef9feb54b93d6d7633a4c00c, type: 3}
+  Description: "\u041E\u0447\u0435\u043D\u044C \u0445\u043E\u0440\u043E\u0448\u0438\u0439
+    \u043C\u043E\u043B\u043E\u0442\u043E\u043A\n"
+  MaxStack: 1
+  Category: 16
+  <Capability>k__BackingField: 16
+  <Volume>k__BackingField: 2
